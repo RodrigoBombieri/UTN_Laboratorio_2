@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1691104365 source:c:\users\rodrigo\desktop\utn\segundo cuatrimestre\laboratorio ii\candidatos1\candidatos1\funciones.cpp
+	<iostream>
+	"funciones.h"
+
+1691103888 c:\users\rodrigo\desktop\utn\segundo cuatrimestre\laboratorio ii\candidatos1\candidatos1\funciones.h
+
+1691103024 source:c:\users\rodrigo\desktop\utn\segundo cuatrimestre\laboratorio ii\candidatos1\candidatos1\main.cpp
+	<iostream>
+	"funciones.h"
+

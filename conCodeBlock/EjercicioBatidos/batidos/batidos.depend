@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1691855688 source:c:\users\rodrigo\desktop\utn\segundo cuatrimestre\laboratorio ii\concodeblock\ejerciciobatidos\batidos\src\vaso.cpp
+	<iostream>
+	<cstdlib>
+	<locale.h>
+	"Vaso.h"
+
+1691855618 c:\users\rodrigo\desktop\utn\segundo cuatrimestre\laboratorio ii\concodeblock\ejerciciobatidos\batidos\include\vaso.h
+
+1691856758 source:c:\users\rodrigo\desktop\utn\segundo cuatrimestre\laboratorio ii\concodeblock\ejerciciobatidos\batidos\main.cpp
+	<iostream>
+	"Bidon.h"
+	<cstring>
+
+1691857191 c:\users\rodrigo\desktop\utn\segundo cuatrimestre\laboratorio ii\concodeblock\ejerciciobatidos\batidos\include\bidon.h
+	"Vaso.h"
+	<string>
+
+1691857196 source:c:\users\rodrigo\desktop\utn\segundo cuatrimestre\laboratorio ii\concodeblock\ejerciciobatidos\batidos\src\bidon.cpp
+	<iostream>
+	<cstdlib>
+	<locale.h>
+	"Bidon.h"
+
